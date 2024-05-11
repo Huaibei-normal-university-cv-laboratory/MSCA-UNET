@@ -1,0 +1,4 @@
+train_data_dir: /data/BraTS18/BraTS2018_Training
+valid_data_dir: /data/BraTS18/BraTS2018_Validation
+test_data_dir:
+ckpt_dir:
